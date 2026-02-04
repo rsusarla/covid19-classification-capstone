@@ -114,4 +114,5 @@ Tableau Public link (if applicable):
 - Serves as a strong foundation for healthcare analytics and applied ML projects
 ---
 ## Author
-This project was developed as part of a data science capstone to demonstrate applied machine learning skills, analytical reasoning, and professional documentation practices.
+RAMESH SUSARLA - This project was developed as part of a data science capstone to demonstrate applied machine learning skills, analytical reasoning, and professional documentation practices.
+
