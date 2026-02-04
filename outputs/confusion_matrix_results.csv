@@ -1,0 +1,17 @@
+Model,Actual,Predicted,Count
+Logistic Regression,0,0,1204
+Logistic Regression,0,1,1286
+Logistic Regression,1,0,1205
+Logistic Regression,1,1,1303
+Decision Tree,0,0,1266
+Decision Tree,0,1,1224
+Decision Tree,1,0,1249
+Decision Tree,1,1,1259
+Random Forest,0,0,1232
+Random Forest,0,1,1258
+Random Forest,1,0,1234
+Random Forest,1,1,1274
+SVM (RBF),0,0,1229
+SVM (RBF),0,1,1261
+SVM (RBF),1,0,1210
+SVM (RBF),1,1,1298
